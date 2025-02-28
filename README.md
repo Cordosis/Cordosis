@@ -1,0 +1,7 @@
+- Hi, I’m @Cordosis
+- I’m interested in offensive security, pentesting, and software development. 
+- I’m currently learning python and web application pentesting.
+- I’m looking to collaborate on upcoming CTFs, such as PicoCTF March 2025, and the upcoming PirateSoftware Game Jam in July. 
+- Send me a message on Discord @Cordosis
+- Pronouns: He/Him
+- Fun fact: I enjoy playing games, especially ones that lean heaviliy into strategy, which has led me to CTFs.
